@@ -6,4 +6,6 @@ Windows 7,8,10,11 ➡ https://github.com/DisunicX/DisunicX.github.io/releases/do
 
 Android ➡ https://github.com/DisunicX/DisunicX.github.io/releases/download/DisunicX/DisunicX.apk
 
-Linux (Source Code) ➡ 
+Linux (Source Code) ➡ https://github.com/DisunicCorporation/DisunicX-Browser/archive/refs/heads/main.zip
+
+
