@@ -1,6 +1,6 @@
 # DisunicX-Browser
 
-<p style="text-aling:center;">Download Now ⬇ </p>
+<p style="text-aling:center; color:red;">Download Now ⬇ </p>
 
 Windows 7,8,10,11       ➡ https://github.com/DisunicX/DisunicX.github.io/releases/download/PythonBrowserDisunicX/DisunicX.Setup.exe 
 
