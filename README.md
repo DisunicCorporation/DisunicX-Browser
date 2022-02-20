@@ -13,4 +13,4 @@ Android(5.1.1 or Later) ➡ https://github.com/DisunicX/DisunicX.github.io/relea
 Linux (Source Code)     ➡ https://github.com/DisunicCorporation/DisunicX-Browser/archive/refs/heads/main.zip
 
 
-<center><a herf="https://disunic20.github.io/">Disunic Corporation - 2022 All Rights Reserved</a></center>
+Disunic Corporation - 2022 All Rights Reserved ▶ https://disunic20.github.io/ .
