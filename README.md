@@ -15,10 +15,3 @@ Linux (Source Code)     ➡ https://github.com/DisunicCorporation/DisunicX-Brows
 
 Disunic Corporation - 2022 All Rights Reserved ▶ https://disunic20.github.io/ .
 
-Next Update Will Be Appear on 10 March 2022™
-
-Fetures On This Update Is Here 🔽
-
-1. Incognito (Availabe On This Update).
-2. UI Updated (Settings and More). 
-3. And More
