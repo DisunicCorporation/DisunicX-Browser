@@ -54,3 +54,65 @@ sudo apt-get install -y python3-pyqt5.qtwebengine
 ````
 python3 -u main.py
 ````
+
+# Kali Linux Users
+
+- Download Source From Here -> 
+
+- Extract The Zip File
+
+- Open The Folder
+
+- Run The Commands In Terminal
+
+# Step 1
+
+````
+sudo apt-get update -y
+````
+# Step 2
+
+````
+sudo apt install python-pip
+````
+# Step 3
+
+````
+sudo apt-get install -y python3-pyqt5.qtwebengine
+````
+# Step 4
+
+````
+python3 -u main.py
+````
+
+# Garuda Linux User
+
+- Download Source From Here -> 
+
+- Extract The Zip File
+
+- Open The Folder
+
+- Run The Commands In Terminal
+
+# Step 1
+
+````
+sudo apt-get update -y
+````
+# Step 2
+
+````
+sudo apt install python-pip
+````
+# Step 3
+
+````
+sudo apt-get install -y python3-pyqt5.qtwebengine
+````
+# Step 4
+
+````
+python3 -u main.py
+````
