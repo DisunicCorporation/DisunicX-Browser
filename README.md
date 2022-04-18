@@ -54,4 +54,3 @@ sudo apt-get install -y python3-pyqt5.qtwebengine
 ````
 python3 -u main.py
 ````
-
