@@ -1,17 +1,57 @@
 # DisunicX Browser
 
-<p>Check Website For More ⬇</p>
+## Build It On Your System Using Souce Code.
 
-▶  https://disunic20.github.io/disunicx.html .
+# Windows Users
 
-<p style="text-aling:center; color:red;">Download Now ⬇ </p>
+- Download Source From Here -> 
 
-Windows 7,8,10,11       ➡ https://github.com/DisunicCorporation/DisunicX-Browser/releases/download/DisunicX/DisunicX.exe
+- Extract The Zip File
 
-Android(5.1.1 or Later) ➡ https://github.com/DisunicX/DisunicX.github.io/releases/download/DisunicX/DisunicX.apk
+- Open The Folder
 
-Linux (Source Code)     ➡ https://github.com/DisunicCorporation/DisunicX-Browser/archive/refs/heads/main.zip
+- Run The Windows_Requirements.txt in Cmd or Powershell Using 
 
+# Step 1
 
-Disunic Corporation - 2022 All Rights Reserved ▶ https://disunic20.github.io/ .
+````
+pip install -r Windows_Requirements.txt
+````
+
+# Step 2
+
+````
+python -u main.py
+````
+
+# Ubuntu Users
+
+- Download Source From Here -> 
+
+- Extract The Zip File
+
+- Open The Folder
+
+- Run The Commands In Terminal
+
+# Step 1
+
+````
+sudo apt-get update -y
+````
+# Step 2
+
+````
+sudo apt install python-pip
+````
+# Step 3
+
+````
+sudo apt-get install -y python3-pyqt5.qtwebengine
+````
+# Step 4
+
+````
+python3 -u main.py
+````
 
